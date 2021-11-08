@@ -1,0 +1,7 @@
+[
+{"author":"Lev Tolstoy","book name":"War and Peace","number of pages":"456","city":"Odessa","publisher":"AAA Press","year of publication":"2005","price":"$25"},
+{"author":"Tony Morrison","book name":"Song of Solomon","number of pages":"328","city":"London","publisher":"Penguin Press","year of publication":"2005","price":"$24"},
+{"author":"John Tolkien","book name":"The Lord of the Rings","number of pages":"368","city":"NY","publisher":"BB Press","year of publication":"2015","price":"$32"},
+{"author":"Miguel de Servantes","book name":"Don Quixote","number of pages":"436", "city":"Toledo","publisher":"Corrida publ","year of publication":"234","price":"$23"},
+{"author":"George Orwell","book name":"1984","number of pages":"468","city":"Moskow","publisher":"Book House","year of publication":"1995","price":"$24"}
+]

@@ -1,0 +1,19 @@
+body > table > tbody > .class1 {
+	color: #0b24b4;
+	display: flex;
+	padding: 10px;
+	cellpadding: 20px;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+	vertical-align: middle;
+	}
+table > tbody > .class2 {
+	color: #0b24b4;
+	display: flex;
+	font-size: 14px;
+	font-weight: normal;
+	font-family: Arial, sans-serif;
+	vertical-align: middle;
+	
+}

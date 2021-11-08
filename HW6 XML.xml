@@ -1,0 +1,47 @@
+<books>
+	<book>
+		<author>Lev Tolstoy</author>
+		<book_name>War and Peace</book_name>
+		<number_of_pages>456</number_of_pages>
+		<city>Odessa</city>
+		<publisher>AAA Press</publisher>
+		<year_of_publication>2005</year_of_publication>
+		<price>$25</price>
+	</book>
+	<book>
+		<author>Tony Morrison</author>
+		<book_name>Song of Solomon</book_name>
+		<number_of_pages>328</number_of_pages>
+		<city>London</city>
+		<publisher>Penguin Press</publisher>
+		<year_of_publication>2005</year_of_publication>
+		<price>$24</price>
+	</book>
+	<book>
+		<author>John Tolkien</author>
+		<book_name>The Lord of the Rings</book_name>
+		<number_of_pages>368</number_of_pages>
+		<city>NY</city>
+		<publisher>BB Press</publisher>
+		<year_of_publication>2015</year_of_publication>
+		<price>$32</price>
+	</book>
+	<book>
+		<author>Miguel de Servantes</author>
+		<book_name>Don Quixote</book_name>
+		<number_of_pages>436</number_of_pages>
+		<city>Toledo</city>
+		<publisher>Corrida publ</publisher>
+		<year_of_publication>2004</year_of_publication>
+		<price>$23</price>
+	</book>
+	<book>
+		<author>George Orwell</author>
+		<book_name>1984</book_name>
+		<number_of_pages>658</number_of_pages>
+		<city>Moskow</city>
+		<publisher>Book House</publisher>
+		<year_of_publication>1995</year_of_publication>
+		<price>$24</price>
+	</book>
+</books>

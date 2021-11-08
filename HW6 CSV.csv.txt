@@ -1,0 +1,7 @@
+author, book name, number of pages, city, publisher, year of publication, price
+Lev Tolstoy, War and Peace, 456, Odessa, AAA Press, 2000, $20
+Tony Morrison, Song of Solomon, 328, London, Penguin Press, 2005, $25
+John Tolkien, The Lord of the Rings, 368, NY, NY Publish, 2015, $ 32
+Miguel de Servantes, Don Quixote, 234, Toledo, Corrida publ, 2004, $23
+George Orwell, 1984, 478, Moskow, Book House, 1995, $24
+  
